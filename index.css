@@ -38,16 +38,25 @@ body, div, span, a {
 }
 
 .title {
-    font-size: 38px;
+    font-size: 45px;
     font-weight: 700;
     color: #000;
+    width: 100%;
+}
+
+.title-mark {
+    padding-left: 100px;
+    font-size: 28px;
+}
+.title-text {
+    text-align: center;
 }
 
 .buttons {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 .button-item {
@@ -58,7 +67,7 @@ body, div, span, a {
     line-height: 50px;
     text-align: center;
     font-size: 18px;
-    background-color: #666;
+    background-color: pink;
     /* box-shadow: 0px 0px 10px 1px pink; */
     color: #fff;
     cursor: pointer;
@@ -66,7 +75,7 @@ body, div, span, a {
 
 .button-item:hover {
     /* font-size: 28px; */
-    background-color: pink;
+    background-color: #666;
     color: #fff;
     transition: .3s;
     opacity: 1;
