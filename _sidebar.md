@@ -5,4 +5,5 @@
   - [study01](/python/study01.md)
 - httprunner
   - [httprunner01](/httprunner/httprunner01.md)
-  
+- Yaml专栏
+  - [yaml基础学习](/Yaml专栏/yaml基础学习.md) 
