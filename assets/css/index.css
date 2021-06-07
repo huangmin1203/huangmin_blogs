@@ -25,7 +25,7 @@ body, div, span, a {
 .bg-box {
     width: 40vw;
     height: 100vh;
-    background: #fff url(./index_bg.gif) no-repeat left center / 100%;
+    background: #fff url(./../images/index_bg.gif) no-repeat left center / 100%;
 }
 
 .blog-main {
